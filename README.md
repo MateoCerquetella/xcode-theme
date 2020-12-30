@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "xcode-12-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Brings the colors of the Xcode 'Default (Dark)' themes to Visual Studio Code.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Xcode Default
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Matches the default window and syntax colors of Xcode.
 
-**Enjoy!**
+# Xcode Colors
+
+TODO: Upload badge
+
+Brings the colors of the Xcode 'Default (Dark)' and 'Default (Light)' themes to Visual Studio Code.
+
+## Xcode Default
+
+Matches the default window and syntax colors of Xcode.
+
+TODO: Upload image
