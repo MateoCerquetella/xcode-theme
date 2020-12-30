@@ -1,0 +1,21 @@
+{
+	"name": "xcode-12-theme",
+	"displayName": "Xcode 12 theme",
+	"description": "Xcode 12 theme, ported to VS Code",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Xcode 12 Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Xcode 12 Dark-color-theme.json"
+			}
+		]
+	}
+}
