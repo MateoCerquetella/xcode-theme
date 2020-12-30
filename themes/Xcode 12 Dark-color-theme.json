@@ -12,7 +12,7 @@
 		"debugIcon.breakpointForeground": "#007aff",
 		"diffEditor.insertedTextBackground": "#3cff5518",
 		"diffEditor.removedTextBackground": "#ff504418",
-		"editor.background": "#292a30",
+		"editor.background": "#2A2A30",
 		"editor.findMatchBackground": "#fffb00",
 		"editor.findMatchHighlightBackground": "#545558",
 		"editor.foreground": "#dfdfe0",
@@ -164,10 +164,18 @@
 			"scope": [
 				"entity.name.type.class.std.rust",
 				"storage.type.cs",
-				"support.type"
+				"support.type",
+				"meta.object-literal.key"
 			],
 			"settings": {
 				"foreground": "#ACF2E4",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": ["meta.object-literal.key"],
+			"settings": {
+				"foreground": "#72BFAE",
 				"fontStyle": ""
 			}
 		},
@@ -180,21 +188,25 @@
 				"variable"
 			],
 			"settings": {
-				"foreground": "#72BFAE",
+				"foreground": "#fff",
 				"fontStyle": ""
 			}
 		},
 		{
-			"scope": ["meta.function-call"],
+			"scope": ["meta.function-call", "source.css"],
 			"settings": {
 				"foreground": "#C08AFF",
 				"fontStyle": ""
 			}
 		},
 		{
-			"scope": ["meta.definition.function"],
+			"scope": [
+				"meta.definition.function",
+				"meta.definition.method",
+				"meta.method.declaration"
+			],
 			"settings": {
-				"foreground": "#4EC4E6",
+				"foreground": "#41A1C0",
 				"fontStyle": ""
 			}
 		},
@@ -213,12 +225,7 @@
 			}
 		},
 		{
-			"scope": [
-				"entity.name.type",
-				"meta.return.type",
-				"meta.function",
-				"support.type.primitive"
-			],
+			"scope": ["meta.return.type", "meta.function", "support.type.primitive"],
 			"settings": {
 				"foreground": "#D0A8FF",
 				"fontStyle": ""
@@ -300,6 +307,13 @@
 			}
 		},
 		{
+			"scope": ["punctuation.decorator", "meta.brace.round"],
+			"settings": {
+				"foreground": "#FFFFFF",
+				"fontStyle": ""
+			}
+		},
+		{
 			"scope": "token.info-token",
 			"settings": {
 				"foreground": "#6796E6"
@@ -322,17 +336,17 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
-		},
-		{
-			"scope": [
-				"variable.parameter",
-				"meta.parameters",
-				"meta.function",
-				"source"
-			],
-			"settings": {
-				"foreground": "#FFFFFF"
-			}
 		}
+		// {
+		// 	"scope": [
+		// 		"variable.parameter",
+		// 		"meta.parameters",
+		// 		"meta.function",
+		// 		"source"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#FFFFFF"
+		// 	}
+		// }
 	]
 }
