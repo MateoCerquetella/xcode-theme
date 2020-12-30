@@ -2,7 +2,8 @@
 	"name": "xcode-12-theme",
 	"displayName": "Xcode 12 theme",
 	"description": "Xcode 12 theme, ported to VS Code",
-	"version": "1.0.0",
+	"icon": "images/icon.png",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
@@ -10,6 +11,10 @@
 	"categories": [
 		"Themes"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MateoCerquetella/xcode-12-theme"
+	},
 	"contributes": {
 		"themes": [
 			{
