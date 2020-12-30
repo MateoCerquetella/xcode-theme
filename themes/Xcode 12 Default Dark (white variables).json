@@ -1,5 +1,5 @@
 {
-	"name": "Xcode 12 Dark",
+	"name": "Xcode 12 Default Dark (white variables)",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#2a2c2f",
@@ -337,16 +337,5 @@
 				"foreground": "#B267E6"
 			}
 		}
-		// {
-		// 	"scope": [
-		// 		"variable.parameter",
-		// 		"meta.parameters",
-		// 		"meta.function",
-		// 		"source"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#FFFFFF"
-		// 	}
-		// }
 	]
 }

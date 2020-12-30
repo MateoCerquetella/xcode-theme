@@ -13,9 +13,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Xcode 12 Dark",
+				"label": "Xcode 12 Default Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Xcode 12 Dark-color-theme.json"
+				"path": "./themes/Xcode 12 Default Dark.json"
+			},
+			{
+				"label": "Xcode 12 Default Dark (white variables)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Xcode 12 Default Dark (white variables).json"
 			}
 		]
 	}
