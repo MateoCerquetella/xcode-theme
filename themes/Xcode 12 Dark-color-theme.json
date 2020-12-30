@@ -108,21 +108,21 @@
 		{
 			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
-				"foreground": "#7CB554",
+				"foreground": "#6C7986",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": ["punctuation.definition.string", "string"],
 			"settings": {
-				"foreground": "#FC7467",
+				"foreground": "#FC6A5D",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": ["constant.numeric", "keyword.other.unit", "support.constant"],
 			"settings": {
-				"foreground": "#D0BC56",
+				"foreground": "#D0BF69",
 				"fontStyle": ""
 			}
 		},
@@ -208,7 +208,7 @@
 		{
 			"scope": ["keyword.operator"],
 			"settings": {
-				"foreground": "#C08AFF",
+				"foreground": "#A167E6",
 				"fontStyle": ""
 			}
 		},
@@ -220,23 +220,10 @@
 				"support.type.primitive"
 			],
 			"settings": {
-				"foreground": "#DEC1FF",
+				"foreground": "#D0A8FF",
 				"fontStyle": ""
 			}
 		},
-		// {
-		// 	"scope": [
-		// 		"variable.other.readwrite",
-		// 		"meta.definition.variable",
-		// 		"meta.var-single-variable.expr",
-		// 		"meta.var.expr",
-		// 		"meta.block"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#FFFFFF",
-		// 		"fontStyle": ""
-		// 	}
-		// },
 		{
 			"scope": [
 				"entity.name.function.definition",
@@ -247,7 +234,7 @@
 				"variable.other.assignment"
 			],
 			"settings": {
-				"foreground": "#72BFAE",
+				"foreground": "#67B7A4",
 				"fontStyle": ""
 			}
 		},
