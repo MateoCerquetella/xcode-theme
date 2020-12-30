@@ -185,9 +185,16 @@
 			}
 		},
 		{
-			"scope": ["entity.name.function", "support.function"],
+			"scope": ["meta.function-call"],
 			"settings": {
 				"foreground": "#C08AFF",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": ["meta.definition.function"],
+			"settings": {
+				"foreground": "#4EC4E6",
 				"fontStyle": ""
 			}
 		},
@@ -195,6 +202,13 @@
 			"scope": ["entity.name.type"],
 			"settings": {
 				"foreground": "#5DD8FF",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": ["entity.name.type", "meta.return.type", "meta.function"],
+			"settings": {
+				"foreground": "#DEC1FF",
 				"fontStyle": ""
 			}
 		},
