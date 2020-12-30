@@ -20,7 +20,7 @@ Matches the default window and syntax colors of Xcode.
 ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1mtAAA7ibkuKhI6ewf5Nrcwovg6dTmlMq)
 
 
-# Tip
+# Tips
 
 To obtain the max similarity of Xcode, I recommend to use the Apple font-family called SF Mono Medium
 
