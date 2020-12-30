@@ -2,7 +2,7 @@
 	"name": "xcode-12-theme",
 	"displayName": "Xcode 12 theme",
 	"description": "Xcode 12 theme, ported to VS Code",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
