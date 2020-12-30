@@ -6,7 +6,7 @@ Matches the default window and syntax colors of Xcode.
 
 # Xcode Colors
 
-TODO: Upload badge
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/smockle.xcode-default-theme.svg)](https://marketplace.visualstudio.com/items?itemName=smockle.xcode-default-theme)
 
 Brings the colors of the Xcode 'Default (Dark)' and 'Default (Light)' themes to Visual Studio Code.
 
@@ -14,4 +14,4 @@ Brings the colors of the Xcode 'Default (Dark)' and 'Default (Light)' themes to 
 
 Matches the default window and syntax colors of Xcode.
 
-TODO: Upload image
+![Xcode Default (Dark) Screenshot](/1?raw=true 'Xcode Default (Dark) Screenshot')
