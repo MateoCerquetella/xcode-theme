@@ -10,4 +10,4 @@ Brings the colors of the Xcode 'Default (Dark)' and 'Default (Light)' themes to 
 
 Matches the default window and syntax colors of Xcode.
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/12RX2ct8mCwO2-sJ-gZ2anv1Acai8pUgQ/view?usp=sharingue 'Xcode Default (Dark) Screenshot')
+![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/12RX2ct8mCwO2-sJ-gZ2anv1Acai8pUgQ/view?usp=sharing)
