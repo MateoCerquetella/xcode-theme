@@ -206,9 +206,29 @@
 			}
 		},
 		{
+			"scope": ["keyword.operator.assignment.compound"],
+			"settings": {
+				"foreground": "#C08AFF",
+				"fontStyle": ""
+			}
+		},
+		{
 			"scope": ["entity.name.type", "meta.return.type", "meta.function"],
 			"settings": {
 				"foreground": "#DEC1FF",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"variable.other.readwrite",
+				"meta.definition.variable",
+				"meta.var-single-variable.expr",
+				"meta.var.expr",
+				"meta.block"
+			],
+			"settings": {
+				"foreground": "#fff",
 				"fontStyle": ""
 			}
 		},
