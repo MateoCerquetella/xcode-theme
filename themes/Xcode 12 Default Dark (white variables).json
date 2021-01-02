@@ -12,7 +12,7 @@
 		"debugIcon.breakpointForeground": "#007aff",
 		"diffEditor.insertedTextBackground": "#3cff5518",
 		"diffEditor.removedTextBackground": "#ff504418",
-		"editor.background": "#2A2A30",
+		"editor.background": "#1F1F24",
 		"editor.findMatchBackground": "#fffb00",
 		"editor.findMatchHighlightBackground": "#545558",
 		"editor.foreground": "#dfdfe0",
@@ -102,7 +102,8 @@
 		"textLink.foreground": "#6699ff",
 		"titleBar.activeBackground": "#383a3d",
 		"titleBar.activeForeground": "#b7b8bb",
-		"titleBar.border": "#5b5d5f"
+		"titleBar.border": "#5b5d5f",
+		"meta.type.annotation": "#D0A8FF"
 	},
 	"tokenColors": [
 		{
@@ -188,7 +189,7 @@
 				"variable"
 			],
 			"settings": {
-				"foreground": "#FFFFFF",
+				"foreground": "#DFDFE0",
 				"fontStyle": ""
 			}
 		},
@@ -225,7 +226,14 @@
 			}
 		},
 		{
-			"scope": ["meta.return.type", "meta.function", "support.type.primitive"],
+			"scope": [
+				"meta.return.type",
+				"meta.function",
+				"entity.name.function",
+				"support.type.primitive",
+				"meta.field.declaration",
+				"meta.interface"
+			],
 			"settings": {
 				"foreground": "#D0A8FF",
 				"fontStyle": ""
@@ -241,7 +249,7 @@
 				"variable.other.assignment"
 			],
 			"settings": {
-				"foreground": "#67B7A4",
+				"foreground": "#DFDFE0",
 				"fontStyle": ""
 			}
 		},
