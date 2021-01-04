@@ -212,7 +212,7 @@
 			}
 		},
 		{
-			"scope": ["entity.name.type"],
+			"scope": ["entity.name.type", "entity.other.inherited-class"],
 			"settings": {
 				"foreground": "#5DD8FF",
 				"fontStyle": ""
