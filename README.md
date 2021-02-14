@@ -26,12 +26,17 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 
 ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1z6g8Vt8LojSyHvFiLBoR6IOPzUo77F3k)
 
-# Changelog
+# Change Log
 
-All notable changes to this project will be documented in this file.
+All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [1.1.2] - 2021-02-14
+
+### Added
+
+- Fixed typescript optional color.
+- Changed semicolon color.
+- Removed theme white variables
 
 ## [1.1.1] - 2020-01-03
 

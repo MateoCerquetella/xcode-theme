@@ -1,32 +1,32 @@
 {
-	"name": "xcode-12-theme",
-	"displayName": "Xcode 12 theme",
-	"description": "Xcode 12 theme, ported to VS Code",
-	"icon": "images/icon.png",
-	"version": "1.1.1",
-	"engines": {
-		"vscode": "^1.52.0"
-	},
-	"publisher": "mateocerquetella",
-	"categories": [
-		"Themes"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/MateoCerquetella/xcode-12-theme"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Xcode 12 Default Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Xcode 12 Default Dark.json"
-			},
-			{
-				"label": "Xcode 12 Default Dark (white variables)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Xcode 12 Default Dark (white variables).json"
-			}
-		]
-	}
+  "name": "xcode-12-theme",
+  "displayName": "Xcode 12 theme",
+  "description": "Xcode 12 theme, ported to VS Code",
+  "icon": "images/icon.png",
+  "version": "1.1.2",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "publisher": "mateocerquetella",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MateoCerquetella/xcode-12-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xcode 12 Default Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode 12 Default Dark.json"
+      },
+      {
+        "label": "Xcode 12 Default Dark (white variables)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode 12 Default Dark (white variables).json"
+      }
+    ]
+  }
 }

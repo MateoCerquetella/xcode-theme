@@ -2,7 +2,13 @@
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.1.2] - 2021-02-14
+
+### Added
+
+- Fixed typescript optional color.
+- Changed semicolon color.
+- Removed theme white variables
 
 ## [1.1.1] - 2020-01-03
 
