@@ -109,22 +109,19 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#6C7986",
-        "fontStyle": ""
+        "foreground": "#6C7986"
       }
     },
     {
       "scope": ["punctuation.definition.string", "string"],
       "settings": {
-        "foreground": "#FC6A5D",
-        "fontStyle": ""
+        "foreground": "#FC6A5D"
       }
     },
     {
       "scope": ["constant.numeric", "keyword.other.unit", "support.constant"],
       "settings": {
-        "foreground": "#D0BF69",
-        "fontStyle": ""
+        "foreground": "#D0BF69"
       }
     },
     {
@@ -150,15 +147,13 @@
         "punctuation.definition.preprocessor"
       ],
       "settings": {
-        "foreground": "#FFA14F",
-        "fontStyle": ""
+        "foreground": "#FFA14F"
       }
     },
     {
       "scope": ["markup.underline.link"],
       "settings": {
-        "foreground": "#6699FF",
-        "fontStyle": ""
+        "foreground": "#6699FF"
       }
     },
     {
@@ -169,15 +164,13 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#ACF2E4",
-        "fontStyle": ""
+        "foreground": "#ACF2E4"
       }
     },
     {
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#72BFAE",
-        "fontStyle": ""
+        "foreground": "#72BFAE"
       }
     },
     {
@@ -189,15 +182,13 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#67B7A4",
-        "fontStyle": ""
+        "foreground": "#67B7A4"
       }
     },
     {
       "scope": ["meta.function-call", "source.css"],
       "settings": {
-        "foreground": "#C08AFF",
-        "fontStyle": ""
+        "foreground": "#C08AFF"
       }
     },
     {
@@ -207,22 +198,26 @@
         "meta.method.declaration"
       ],
       "settings": {
-        "foreground": "#41A1C0",
-        "fontStyle": ""
+        "foreground": "#41A1C0"
       }
     },
     {
       "scope": ["entity.name.type", "entity.other.inherited-class"],
       "settings": {
-        "foreground": "#5DD8FF",
-        "fontStyle": ""
+        "foreground": "#5DD8FF"
       }
     },
     {
+      "scope": ["support.class.error.ts", "meta.class.ts", "source.ts"],
+      "settings": {
+        "foreground": "#5DD8FF"
+      }
+    },
+
+    {
       "scope": ["keyword.operator"],
       "settings": {
-        "foreground": "#A167E6",
-        "fontStyle": ""
+        "foreground": "#A167E6"
       }
     },
     {
@@ -235,8 +230,7 @@
         "meta.interface"
       ],
       "settings": {
-        "foreground": "#D0A8FF",
-        "fontStyle": ""
+        "foreground": "#D0A8FF"
       }
     },
     {
@@ -249,8 +243,7 @@
         "variable.other.assignment"
       ],
       "settings": {
-        "foreground": "#67B7A4",
-        "fontStyle": ""
+        "foreground": "#67B7A4"
       }
     },
     {
@@ -268,15 +261,13 @@
         "punctuation.definition.string.end.markdown"
       ],
       "settings": {
-        "foreground": "#72BFAE",
-        "fontStyle": ""
+        "foreground": "#72BFAE"
       }
     },
     {
       "scope": ["string.other.link.title.markdown"],
       "settings": {
-        "foreground": "#DFDFE0",
-        "fontStyle": ""
+        "foreground": "#DFDFE0"
       }
     },
     {
@@ -289,8 +280,7 @@
     {
       "scope": ["variable.other.property"],
       "settings": {
-        "foreground": "#C08AFF",
-        "fontStyle": ""
+        "foreground": "#C08AFF"
       }
     },
     {
@@ -310,29 +300,25 @@
     {
       "scope": ["punctuation"],
       "settings": {
-        "foreground": "#DFDFE0",
-        "fontStyle": ""
+        "foreground": "#DFDFE0"
       }
     },
     {
       "scope": ["punctuation.decorator", "meta.brace.round"],
       "settings": {
-        "foreground": "#FFFFFF",
-        "fontStyle": ""
+        "foreground": "#FFFFFF"
       }
     },
     {
       "scope": ["punctuation.terminator.statement"],
       "settings": {
-        "foreground": "#505050",
-        "fontStyle": ""
+        "foreground": "#505050"
       }
     },
     {
       "scope": ["punctuation.accessor.optional"],
       "settings": {
-        "foreground": "#A167E6",
-        "fontStyle": ""
+        "foreground": "#A167E6"
       }
     },
     {

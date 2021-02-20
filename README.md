@@ -30,6 +30,13 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
+## [1.1.3] - 2021-02-20
+
+### Added
+
+- Fixed typescript support class
+- Removed unused variables
+
 ## [1.1.2] - 2021-02-14
 
 ### Added
