@@ -2,6 +2,12 @@
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
+## [1.1.4] - 2021-02-24
+
+### Added
+
+- Support for React
+
 ## [1.1.3] - 2021-02-20
 
 ### Added
