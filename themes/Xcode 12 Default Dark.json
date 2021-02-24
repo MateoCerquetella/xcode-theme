@@ -309,6 +309,20 @@
         "foreground": "#FFFFFF"
       }
     },
+
+    {
+      "scope": ["entity.other.attribute-name.js"],
+      "settings": {
+        "foreground": "#D0A8FF"
+      }
+    },
+    {
+      "scope": ["meta.tag.without-attributes.js", "meta.jsx.children.js"],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+
     {
       "scope": ["punctuation.terminator.statement"],
       "settings": {
