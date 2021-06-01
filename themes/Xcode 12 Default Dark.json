@@ -237,7 +237,6 @@
       "scope": [
         "entity.name.function.definition",
         "entity.name.function.go",
-        "entity.name.type.interface",
         "entity.name.type.namespace",
         "entity.name.variable",
         "variable.other.assignment"
