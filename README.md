@@ -10,15 +10,15 @@ Matches the default window and syntax colors of Xcode.
 
 ## React
 
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1Z1lpRTFYBrOc6hO1x5VEetV6LWm_VUCW/view?usp=sharing)
+## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1Z1lpRTFYBrOc6hO1x5VEetV6LWm_VUCW)
 
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1_Ji5AXlPm6t6VDvUFgXzdhLqUbtigdWG/view?usp=sharing)
+## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1_Ji5AXlPm6t6VDvUFgXzdhLqUbtigdWG)
 
 ## Angular
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1WTTgsplq-4bPTWW1uufY4j1MZZ71n0s4/view?usp=sharing)
+![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1WTTgsplq-4bPTWW1uufY4j1MZZ71n0s4)
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1WTTgsplq-4bPTWW1uufY4j1MZZ71n0s4/view?usp=sharing)
+![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1WTTgsplq-4bPTWW1uufY4j1MZZ71n0s4)
 
 # Tips
 
@@ -29,6 +29,7 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 # Change Log
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
+
 ## [1.1.5] - 2021-06-24
 
 ### Added
