@@ -18,7 +18,7 @@ Matches the default window and syntax colors of Xcode.
 
 ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1WTTgsplq-4bPTWW1uufY4j1MZZ71n0s4)
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1WTTgsplq-4bPTWW1uufY4j1MZZ71n0s4)
+![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1V4k3RaQ9PuMUUVl9ubB4u2RPMX1sB7vg)
 
 # Tips
 
