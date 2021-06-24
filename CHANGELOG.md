@@ -1,6 +1,11 @@
 # Change Log
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
+## [1.1.5] - 2021-06-24
+
+### Added
+
+- Typescript interface color
 
 ## [1.1.4] - 2021-02-24
 

@@ -10,15 +10,15 @@ Matches the default window and syntax colors of Xcode.
 
 ## React
 
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=12RX2ct8mCwO2-sJ-gZ2anv1Acai8pUgQ)
+## ![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1Z1lpRTFYBrOc6hO1x5VEetV6LWm_VUCW/view?usp=sharing)
 
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1qOygFFMhIVdi7MoC5LbRokf-oddaWvLn)
-
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=11q4dDZm0LNoVKtjxNJyTs0zPfAZg0IpA)
+## ![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1_Ji5AXlPm6t6VDvUFgXzdhLqUbtigdWG/view?usp=sharing)
 
 ## Angular
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1mtAAA7ibkuKhI6ewf5Nrcwovg6dTmlMq)
+![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1WTTgsplq-4bPTWW1uufY4j1MZZ71n0s4/view?usp=sharing)
+
+![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1WTTgsplq-4bPTWW1uufY4j1MZZ71n0s4/view?usp=sharing)
 
 # Tips
 
@@ -29,6 +29,11 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 # Change Log
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
+## [1.1.5] - 2021-06-24
+
+### Added
+
+- Typescript interface color
 
 ## [1.1.4] - 2021-02-24
 
