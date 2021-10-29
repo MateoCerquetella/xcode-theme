@@ -1,6 +1,13 @@
 # Change Log
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
+
+## [1.2.0] - 2021-10-28
+
+### Added
+
+- Changed active and inactive tabs colors
+
 ## [1.1.5] - 2021-06-24
 
 ### Added
