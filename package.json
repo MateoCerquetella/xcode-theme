@@ -1,7 +1,7 @@
 {
-  "name": "xcode-theme",
-  "displayName": "Xcode theme",
-  "description": "Xcode theme, ported to VS Code",
+  "name": "xcode-12-theme",
+  "displayName": "Xcode Theme",
+  "description": "Xcode Theme, ported to VS Code",
   "icon": "images/icon.png",
   "version": "1.3.0",
   "scripts": {
