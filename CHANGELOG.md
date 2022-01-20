@@ -1,6 +1,12 @@
 # Change Log
 
-All notable changes to the "xcode-12-theme" extension will be documented in this file.
+All notable changes to the "xcode-theme" extension will be documented in this file.
+
+## [1.2.0] - 2022-01-20
+
+### Added
+
+- Added yellow color to language constant & changed name of package
 
 ## [1.2.0] - 2021-10-28
 

@@ -1,7 +1,7 @@
 {
-  "name": "xcode-12-theme",
-  "displayName": "Xcode 12 theme",
-  "description": "Xcode 12 theme, ported to VS Code",
+  "name": "xcode-theme",
+  "displayName": "Xcode theme",
+  "description": "Xcode theme, ported to VS Code",
   "icon": "images/icon.png",
   "version": "1.2.0",
   "scripts": {
@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MateoCerquetella/xcode-12-theme"
+    "url": "https://github.com/MateoCerquetella/xcode-theme"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Xcode 12 Default Dark",
+        "label": "Xcode Default Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Xcode 12 Default Dark.json"
+        "path": "./themes/Xcode Default Dark.json"
       }
     ]
   },
