@@ -202,6 +202,17 @@
       }
     },
     {
+      "scope": [
+        "constant.language.boolean.false.ts",
+        "constant.language.boolean.true.ts",
+        "meta.object.member.ts",
+        "meta.objectliteral.ts"
+      ],
+      "settings": {
+        "foreground": "#D6C455"
+      }
+    },
+    {
       "scope": ["entity.name.type", "entity.other.inherited-class"],
       "settings": {
         "foreground": "#5DD8FF"
