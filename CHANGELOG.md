@@ -2,6 +2,18 @@
 
 All notable changes to the "xcode-theme" extension will be documented in this file.
 
+## [2.0.0] - 2022-02-21
+
+### Added
+
+- Better support for TypeScript
+- Better support for Angular & React
+- Changed variable declaration to light blue color
+- Changed variable parameters to white color
+- Changed return reserved word variable to white color
+- Changed all declared global variables to green color
+- Changed Entity type to violet color
+
 ## [1.2.0] - 2022-01-20
 
 ### Added

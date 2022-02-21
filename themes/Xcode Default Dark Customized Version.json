@@ -1,5 +1,5 @@
 {
-  "name": "Xcode 12 Default Dark",
+  "name": "Xcode Default Dark Customized Version",
   "type": "dark",
   "colors": {
     "activityBar.background": "#2a2c2f",
@@ -182,18 +182,13 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#83C9BC"
+        "foreground": "#67B7A4"
       }
     },
     {
-      "scope": [
-        "variable.parameter",
-        "meta.parameters",
-        "variable.parameter.function",
-        "variable.other.object"
-      ],
+      "scope": ["meta.function-call", "source.css"],
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#C08AFF"
       }
     },
     {
@@ -208,23 +203,23 @@
     },
     {
       "scope": [
-        "constant.language.boolean.false",
-        "constant.language.boolean.true",
-        "meta.object.member",
-        "meta.objectliteral"
+        "constant.language.boolean.false.ts",
+        "constant.language.boolean.true.ts",
+        "meta.object.member.ts",
+        "meta.objectliteral.ts"
       ],
       "settings": {
         "foreground": "#D6C455"
       }
     },
     {
-      "scope": ["entity.name.type"],
+      "scope": ["entity.name.type", "entity.other.inherited-class"],
       "settings": {
-        "foreground": "#E5CFFF"
+        "foreground": "#5DD8FF"
       }
     },
     {
-      "scope": ["entity.name.type.class", "entity.other.inherited-class"],
+      "scope": ["support.class.error.ts", "meta.class.ts", "source.ts"],
       "settings": {
         "foreground": "#5DD8FF"
       }
@@ -251,23 +246,13 @@
     {
       "scope": [
         "entity.name.function.definition",
+        "entity.name.function.go",
         "entity.name.type.namespace",
         "entity.name.variable",
         "variable.other.assignment"
       ],
       "settings": {
-        "foreground": "#49B7D7"
-      }
-    },
-    {
-      "scope": [
-        "variable.object.property",
-        "meta.definition.property",
-        "meta.field.declaration",
-        "meta.class"
-      ],
-      "settings": {
-        "foreground": "#49B7D7"
+        "foreground": "#67B7A4"
       }
     },
     {
@@ -302,13 +287,9 @@
       }
     },
     {
-      "scope": [
-        "variable.other.property",
-        "variable.other.object.property",
-        "support.variable.property"
-      ],
+      "scope": ["variable.other.property"],
       "settings": {
-        "foreground": "#83C9BC"
+        "foreground": "#C08AFF"
       }
     },
     {
@@ -338,29 +319,13 @@
       }
     },
     {
-      "scope": ["variable.other.readwrite"],
-      "settings": {
-        "foreground": "#FFFFFF"
-      }
-    },
-    {
-      "scope": ["entity.other.attribute-name"],
+      "scope": ["entity.other.attribute-name.js"],
       "settings": {
         "foreground": "#D0A8FF"
       }
     },
     {
-      "scope": ["meta.tag.without-attributes", "metax.children"],
-      "settings": {
-        "foreground": "#FFFFFF"
-      }
-    },
-    {
-      "scope": [
-        "variable.other.constant",
-        "meta.var-single-variable.expr",
-        "meta.var.expr"
-      ],
+      "scope": ["meta.tag.without-attributes.js", "meta.jsx.children.js"],
       "settings": {
         "foreground": "#FFFFFF"
       }

@@ -186,12 +186,16 @@
       }
     },
     {
-      "scope": ["variable.parameter.ts", "meta.parameters.ts"],
+      "scope": [
+        "variable.parameter",
+        "meta.parameters",
+        "variable.parameter.function",
+        "variable.other.object"
+      ],
       "settings": {
         "foreground": "#FFFFFF"
       }
     },
-
     {
       "scope": [
         "meta.definition.function",
@@ -204,23 +208,23 @@
     },
     {
       "scope": [
-        "constant.language.boolean.false.ts",
-        "constant.language.boolean.true.ts",
-        "meta.object.member.ts",
-        "meta.objectliteral.ts"
+        "constant.language.boolean.false",
+        "constant.language.boolean.true",
+        "meta.object.member",
+        "meta.objectliteral"
       ],
       "settings": {
         "foreground": "#D6C455"
       }
     },
     {
-      "scope": ["entity.name.type", "entity.other.inherited-class"],
+      "scope": ["entity.name.type"],
       "settings": {
-        "foreground": "#5DD8FF"
+        "foreground": "#E5CFFF"
       }
     },
     {
-      "scope": ["support.class.error.ts", "meta.class.ts", "source.ts"],
+      "scope": ["entity.name.type.class", "entity.other.inherited-class"],
       "settings": {
         "foreground": "#5DD8FF"
       }
@@ -247,7 +251,6 @@
     {
       "scope": [
         "entity.name.function.definition",
-        "entity.name.function.go",
         "entity.name.type.namespace",
         "entity.name.variable",
         "variable.other.assignment"
@@ -258,10 +261,10 @@
     },
     {
       "scope": [
-        "variable.object.property.ts",
-        "meta.definition.property.ts",
-        "meta.field.declaration.ts",
-        "meta.class.ts"
+        "variable.object.property",
+        "meta.definition.property",
+        "meta.field.declaration",
+        "meta.class"
       ],
       "settings": {
         "foreground": "#49B7D7"
@@ -299,9 +302,13 @@
       }
     },
     {
-      "scope": ["variable.other.property"],
+      "scope": [
+        "variable.other.property",
+        "variable.other.object.property",
+        "support.variable.property"
+      ],
       "settings": {
-        "foreground": "#CDA1FF"
+        "foreground": "#83C9BC"
       }
     },
     {
@@ -330,20 +337,34 @@
         "foreground": "#FFFFFF"
       }
     },
-
     {
-      "scope": ["entity.other.attribute-name.js"],
+      "scope": ["variable.other.readwrite"],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "scope": ["entity.other.attribute-name"],
       "settings": {
         "foreground": "#D0A8FF"
       }
     },
     {
-      "scope": ["meta.tag.without-attributes.js", "meta.jsx.children.js"],
+      "scope": ["meta.tag.without-attributes", "metax.children"],
       "settings": {
         "foreground": "#FFFFFF"
       }
     },
-
+    {
+      "scope": [
+        "variable.other.constant",
+        "meta.var-single-variable.expr",
+        "meta.var.expr"
+      ],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
     {
       "scope": ["punctuation.terminator.statement"],
       "settings": {
