@@ -21,6 +21,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Xcode Classic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode Classic Dark.json"
+      },
+      {
         "label": "Xcode Default Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Xcode Default Dark.json"
