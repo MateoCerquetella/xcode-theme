@@ -10,21 +10,23 @@ Matches the default window and syntax colors of Xcode.
 
 ## React
 
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1Z1lpRTFYBrOc6hO1x5VEetV6LWm_VUCW)
+## ![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/12HzOlLrZwVgZrriLEna6x0X0o6My-dZC/view)
 
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1_Ji5AXlPm6t6VDvUFgXzdhLqUbtigdWG)
+## ![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1btyvShxoHmedn7emzlWhfXeexAEgPA8u/view)
 
 ## Angular
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1WTTgsplq-4bPTWW1uufY4j1MZZ71n0s4)
+![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1ntcZxE2wluCydiApQT-psapX8DHPHIW1/view)
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1V4k3RaQ9PuMUUVl9ubB4u2RPMX1sB7vg)
+![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1SMMIL0DV75PMXCOTORN23XqYGb68foZF/view)
+
+![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1lbvaB0zlbVynDfDKlO55oNz-0FCK4psd/view)
 
 # Tips
 
 To obtain the max similarity of Xcode, I recommend to use the Apple font-family called SF Mono Medium
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1z6g8Vt8LojSyHvFiLBoR6IOPzUo77F3k)
+![Xcode Default (Dark) Screenshot](https://drive.google.com/file/d/1G5EwnTCE-s1FWxl-IIJbGLmDf4yvu1jY/view)
 
 # Change Log
 
