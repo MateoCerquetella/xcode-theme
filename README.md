@@ -2,7 +2,7 @@
 
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/MateoCERQUETELLA.xcode-12-theme.svg)](https://marketplace.visualstudio.com/items?itemName=MateoCERQUETELLA.xcode-12-theme)
 
-Brings the color of the Xcode 'Default (Dark)' theme to Visual Studio Code.
+Bring the color of the Xcode 'Default (Dark)' and Xcode 'Classic (Dark)' themes to Visual Studio Code.
 
 ## Xcode Default
 
@@ -30,7 +30,7 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 
 # Change Log
 
-All notable changes to the "xcode-theme" extension will be documented in this file.
+All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
 ## [2.0.0] - 2022-02-21
 
