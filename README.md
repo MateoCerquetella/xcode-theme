@@ -32,6 +32,12 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
+## [2.1.0] - 2022-02-22
+
+### Added
+
+- Changed variable parameter color to deep blue like Xcode
+
 ## [2.0.0] - 2022-02-21
 
 ### Added

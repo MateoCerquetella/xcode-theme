@@ -208,6 +208,16 @@
     },
     {
       "scope": [
+        "variable.parameter",
+        "meta.parameters",
+        "meta.method.declaration"
+      ],
+      "settings": {
+        "foreground": "#41A1C0"
+      }
+    },
+    {
+      "scope": [
         "constant.language.boolean.false",
         "constant.language.boolean.true",
         "meta.object.member",
