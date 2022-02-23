@@ -2,6 +2,16 @@
 
 All notable changes to the "xcode-theme" extension will be documented in this file.
 
+## [3.0.0] - 2022-02-23
+
+### Added
+
+- Added better support for TypeScript
+- Fixed switch case color
+- Fixed function-call color
+- Fixed parameters color
+- Fixed block color
+
 ## [2.2.0] - 2022-02-23
 
 ### Added
