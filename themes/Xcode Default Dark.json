@@ -209,6 +209,9 @@
     {
       "scope": [
         "variable.parameter",
+        "variable.other.object",
+        "variable.other.readwrite",
+        "variable.other.constant",
         "meta.parameters",
         "meta.method.declaration"
       ],
@@ -343,12 +346,6 @@
     },
     {
       "scope": ["punctuation.decorator", "meta.brace.round"],
-      "settings": {
-        "foreground": "#FFFFFF"
-      }
-    },
-    {
-      "scope": ["variable.other.readwrite"],
       "settings": {
         "foreground": "#FFFFFF"
       }

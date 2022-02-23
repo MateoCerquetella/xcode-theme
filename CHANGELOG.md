@@ -2,6 +2,12 @@
 
 All notable changes to the "xcode-theme" extension will be documented in this file.
 
+## [2.2.0] - 2022-02-23
+
+### Added
+
+- Fixed variable parameter and usage color to deep blue like Xcode
+
 ## [2.1.0] - 2022-02-22
 
 ### Added
