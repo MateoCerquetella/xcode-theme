@@ -1,6 +1,13 @@
 # Change Log
 
-All notable changes to the "xcode-theme" extension will be documented in this file.
+All notable changes to the "xcode-12-theme" extension will be documented in this file.
+
+## [3.1.0] - 2022-03-01
+
+### Added
+
+- Changed white color on parameters to cyan
+- Fixed colors on default dark
 
 ## [3.0.0] - 2022-02-23
 

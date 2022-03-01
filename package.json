@@ -3,7 +3,7 @@
   "displayName": "Xcode Theme",
   "description": "Xcode Theme, ported to VS Code",
   "icon": "images/icon.png",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "scripts": {
     "build": "vsce package"
   },
