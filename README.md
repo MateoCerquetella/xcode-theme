@@ -1,6 +1,18 @@
 # Xcode Colors
 
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/MateoCERQUETELLA.xcode-12-theme.svg)](https://marketplace.visualstudio.com/items?itemName=MateoCERQUETELLA.xcode-12-theme)
+<p align="center">
+   <a href="https://marketplace.visualstudio.com/items?itemName=MateoCERQUETELLA.xcode-12-theme" alt="Visual Studio Marketplace">
+        <img src="https://img.shields.io/vscode-marketplace/v/MateoCERQUETELLA.xcode-12-theme.svg"/></a>
+    <a href="https://github.com/MateoCerquetella/xcode-theme/issues" alt="Github Issues">
+        <img src="https://img.shields.io/github/issues/MateoCerquetella/xcode-theme"/></a>
+    <a href="https://github.com/MateoCerquetella/xcode-theme/forks" alt="Github Forks">
+        <img src="https://img.shields.io/github/forks/MateoCerquetella/xcode-theme"/></a>
+    <a href="https://github.com/MateoCerquetella/xcode-theme/stars" alt="Github Stars">
+        <img src="https://img.shields.io/github/stars/MateoCerquetella/xcode-theme"/></a>
+   <a href="https://github.com/MateoCerquetella/xcode-theme/license" alt="Github License">
+        <img src="https://img.shields.io/github/license/MateoCerquetella/xcode-theme"/></a> 
+</p>
+ 
 
 Bring the color of the Xcode 'Default (Dark)' and Xcode 'Classic (Dark)' themes to Visual Studio Code.
 
