@@ -43,6 +43,12 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
+## [3.3.0] - 2022-05-30
+
+### Added
+
+- Added new light theme Xcode Classic Light
+
 ## [3.2.0] - 2022-05-30
 
 ### Added
