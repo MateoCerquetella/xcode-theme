@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/github/license/MateoCerquetella/xcode-theme"/></a> 
 </p>
 
-Bring the color of the Xcode 'Default (Dark)' and Xcode 'Classic (Dark)' themes to Visual Studio Code.
+Bring the color of the Xcode 'Default (Dark)', Xcode 'Classic (Dark)' and Xcode 'Classic (Light)' themes to Visual Studio Code.
 
 ## Xcode Default
 
