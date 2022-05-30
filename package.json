@@ -3,7 +3,7 @@
   "displayName": "Xcode Theme",
   "description": "Xcode Theme, ported to VS Code",
   "icon": "images/icon.png",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "scripts": {
     "build": "vsce package"
   },
@@ -26,6 +26,11 @@
         "path": "./themes/Xcode Classic Dark.json"
       },
       {
+        "label": "Xcode Classic Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode Classic Light.json"
+      },
+      {
         "label": "Xcode Default Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Xcode Default Dark.json"
@@ -37,5 +42,7 @@
       }
     ]
   },
-  "devDependencies": {}
+  "dependencies": {
+    "vsce": "^2.9.0"
+  }
 }

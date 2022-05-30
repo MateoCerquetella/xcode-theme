@@ -12,7 +12,6 @@
    <a href="https://github.com/MateoCerquetella/xcode-theme/license" alt="Github License">
         <img src="https://img.shields.io/github/license/MateoCerquetella/xcode-theme"/></a> 
 </p>
- 
 
 Bring the color of the Xcode 'Default (Dark)' and Xcode 'Classic (Dark)' themes to Visual Studio Code.
 
@@ -43,6 +42,14 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 # Change Log
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
+
+## [3.2.0] - 2022-05-30
+
+### Added
+
+- Added transparency to text selections
+- Fixed colors on git decorations
+- Thanks @heebeejeebees!
 
 ## [3.1.0] - 2022-03-01
 

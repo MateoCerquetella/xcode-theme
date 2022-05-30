@@ -2,6 +2,14 @@
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
+## [3.2.0] - 2022-05-30
+
+### Added
+
+- Added transparency to text selections
+- Fixed colors on git decorations
+- Thanks @heebeejeebees!
+
 ## [3.1.0] - 2022-03-01
 
 ### Added
