@@ -328,7 +328,7 @@
     {
       "scope": ["punctuation.terminator.statement"],
       "settings": {
-        "foreground": "#505050"
+        "foreground": "#ffffff"
       }
     },
     {

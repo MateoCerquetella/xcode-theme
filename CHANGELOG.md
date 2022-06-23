@@ -2,6 +2,13 @@
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
+## [4.0.0] - 2022-06-23
+
+### Added
+
+- Changed semicolon color on "Xcode Default Dark Customized Version" & "Xcode Default Dark" to #FFFFFF for better readability
+- Re-launched theme Xcode Classic Light with new improvements
+
 ## [3.3.0] - 2022-05-30
 
 ### Added
