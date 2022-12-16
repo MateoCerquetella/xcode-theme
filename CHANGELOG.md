@@ -2,6 +2,12 @@
 
 All notable changes to the "xcode-12-theme" extension will be documented in this file.
 
+## [4.1.0] - 2022-12-16
+
+### Added
+
+- Dart language support
+
 ## [4.0.0] - 2022-06-23
 
 ### Added
