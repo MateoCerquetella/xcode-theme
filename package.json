@@ -21,22 +21,27 @@
   "contributes": {
     "themes": [
       {
-        "label": "Xcode Classic Dark",
+        "label": "Xcode Classic (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/Xcode Classic Dark.json"
       },
       {
-        "label": "Xcode Classic Light",
+        "label": "Xcode Classic (Light)",
         "uiTheme": "vs",
         "path": "./themes/Xcode Classic Light.json"
       },
       {
-        "label": "Xcode Default Dark",
+        "label": "Xcode Civic (Dark)",
+        "uiTheme": "vs",
+        "path": "./themes/Xcode Civic.json"
+      },
+      {
+        "label": "Xcode Default (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/Xcode Default Dark.json"
       },
       {
-        "label": "Xcode Default Dark Customized Version",
+        "label": "Xcode Default (Dark Customized Version)",
         "uiTheme": "vs-dark",
         "path": "./themes/Xcode Default Dark Customized Version.json"
       }

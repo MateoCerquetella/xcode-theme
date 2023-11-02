@@ -1,5 +1,5 @@
 {
-  "name": "Xcode Classic Dark",
+  "name": "Xcode Classic (Dark)",
   "type": "dark",
   "colors": {
     "activityBar.background": "#282831",
@@ -436,6 +436,30 @@
     },
     {
       "scope": ["variable.parameter.dart"],
+      "settings": {
+        "foreground": "#83C9BC"
+      }
+    },
+    {
+      "scope": ["entity.name.type.class.flutter", "source.flutter"],
+      "settings": {
+        "foreground": "#E5CFFF"
+      }
+    },
+    {
+      "scope": ["entity.name.function.flutter"],
+      "settings": {
+        "foreground": "#5DD8FF"
+      }
+    },
+    {
+      "scope": ["source.flutter"],
+      "settings": {
+        "foreground": "#49B7D7"
+      }
+    },
+    {
+      "scope": ["variable.parameter.flutter"],
       "settings": {
         "foreground": "#83C9BC"
       }
