@@ -23,7 +23,7 @@
     "editor.stackFrameHighlightBackground": "#007aff22",
     "editorCodeLens.foreground": "#dfdfdf77",
     "editorCursor.foreground": "#ffffff",
-    "editorError.foreground": "#F44747",
+    "editorError.foreground": "#ff0000",
     "editorGroupHeader.noTabsBackground": "#383a3d",
     "editorGroupHeader.tabsBackground": "#282831",
     "editorGutter.addedBackground": "#4f82ce",
@@ -36,14 +36,14 @@
     "editorLink.activeForeground": "#6699ff",
     "editorOverviewRuler.addedForeground": "#4f82ce",
     "editorOverviewRuler.deletedForeground": "#4f82ce",
-    "editorOverviewRuler.errorForeground": "#F44747",
+    "editorOverviewRuler.errorForeground": "#ff0000",
     "editorOverviewRuler.findMatchForeground": "#fffb00",
     "editorOverviewRuler.modifiedForeground": "#4f82ce",
     "editorOverviewRuler.warningForeground": "#f5c443",
     "editorWarning.foreground": "#f5c443",
     "editorWhitespace.foreground": "#53606e",
     "editorWidget.background": "#303030",
-    "errorForeground": "#F44747",
+    "errorForeground": "#ff0000",
     "focusBorder": "#35628b",
     "foreground": "#dfdfdf",
     "gitDecoration.conflictingResourceForeground": "#e21514",
@@ -55,7 +55,7 @@
     "list.highlightForeground": "#f5c443",
     "list.hoverBackground": "#00000000",
     "list.inactiveSelectionBackground": "#4f5153",
-    "minimap.errorHighlight": "#F44747",
+    "minimap.errorHighlight": "#ff0000",
     "minimap.findMatchHighlight": "#fffb00",
     "minimap.selectionHighlight": "#646f83",
     "minimap.warningHighlight": "#f5c443",
@@ -418,7 +418,7 @@
     {
       "scope": "token.error-token",
       "settings": {
-        "foreground": "#F44747"
+        "foreground": "#ff0000"
       }
     },
     {
