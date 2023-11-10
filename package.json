@@ -36,6 +36,11 @@
         "path": "./themes/Xcode Low Key.json"
       },
       {
+        "label": "Xcode Spartan (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/Xcode Spartan.json"
+      },
+      {
         "label": "Xcode Civic (Dark)",
         "uiTheme": "vs",
         "path": "./themes/Xcode Civic.json"
