@@ -42,7 +42,7 @@
       },
       {
         "label": "Xcode Civic (Dark)",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Xcode Civic.json"
       },
       {
