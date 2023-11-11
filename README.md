@@ -13,25 +13,45 @@
         <img src="https://img.shields.io/github/license/MateoCerquetella/xcode-theme"/></a> 
 </p>
 
-Bring the color of the Xcode 'Default (Dark)', Xcode 'Classic (Dark)' and Xcode 'Classic (Light)' themes to Visual Studio Code.
+Bring the color of the following Xcode themes to Visual Studio Code:
 
-## Xcode Default
+- Xcode Default (Dark)
+- Xcode Default Customized Version (Dark)
+- Xcode Classic (Dark)
+- Xcode Classic (Light)
+- Xcode Civic (Dark)
+- Xcode Low Key (Light)
+- Xcode Spartan (Light)
 
 Matches the default window and syntax colors of Xcode.
 
-## React
+## Xcode Default (Dark)
 
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=12HzOlLrZwVgZrriLEna6x0X0o6My-dZC)
+![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1qdPGym_7RvXo-gFyRU73zpvZdl3JzaKB)
 
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1btyvShxoHmedn7emzlWhfXeexAEgPA8u)
+## Xcode Default Customized Version (Dark)
 
-## Angular
+![Xcode Default Customized Version (Dark) Screenshot](https://drive.google.com/uc?export=view&id=19IScotMIKY_TDsWKEuzJD7Rk6rT4rvI0)
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1ntcZxE2wluCydiApQT-psapX8DHPHIW1)
+## Xcode Classic (Dark)
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1SMMIL0DV75PMXCOTORN23XqYGb68foZF)
+![Xcode Classic (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1ekbcRZhkyulyFov8H8RRnlDyKomCilt_)
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1lbvaB0zlbVynDfDKlO55oNz-0FCK4psd)
+## Xcode Classic (Light)
+
+![Xcode Classic (Light) Screenshot](https://drive.google.com/uc?export=view&id=1G9QWsJtocjiY41KSC7t2XS3bMro7iObO)
+
+## Xcode Civic (Dark)
+
+![Xcode Civic (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1aC2dswFKbUPK_SXcEuKn-LT0lXhgCTrU)
+
+## Xcode Low Key (Dark)
+
+![Xcode Low Key (Light) Screenshot](https://drive.google.com/uc?export=view&id=1OAbhW1i8v6zQm2tbJfxcszvTUGwSCqeZ)
+
+## Xcode Spartan (Light)
+
+![Xcode Spartan (Light) Screenshot](https://drive.google.com/uc?export=view&id=1-gbDnmqOhHnpayMJx7jRUC1e8oT7HwIh)
 
 # Tips
 
@@ -41,7 +61,15 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 
 # Change Log
 
-All notable changes to the "xcode-12-theme" extension will be documented in this file.
+All notable changes to the "xcode-theme" extension will be documented in this file.
+
+## [5.0.0] - 2023-11-10
+
+### Added
+
+- New theme Xcode Low Key (Light)
+- New theme Xcode Spartan (Light)
+- New theme Xcode Civic (Dark)
 
 ## [4.1.0] - 2022-12-16
 

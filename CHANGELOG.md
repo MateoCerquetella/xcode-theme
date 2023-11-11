@@ -1,6 +1,14 @@
 # Change Log
 
-All notable changes to the "xcode-12-theme" extension will be documented in this file.
+All notable changes to the "xcode-theme" extension will be documented in this file.
+
+## [5.0.0] - 2023-11-10
+
+### Added
+
+- New theme Xcode Low Key (Light)
+- New theme Xcode Spartan (Light)
+- New theme Xcode Civic (Dark)
 
 ## [4.1.0] - 2022-12-16
 
