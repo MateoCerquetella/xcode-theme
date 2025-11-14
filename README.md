@@ -61,15 +61,28 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 
 # Change Log
 
-All notable changes to the "xcode-theme" extension will be documented in this file.
+## Latest Release
 
-## [5.0.0] - 2023-11-10
+### [5.0.1] - 2025-01-14
 
-### Added
+#### Fixed
+- Fixed text visibility in VS Code and Cursor light themes (#18)
+- Added 66 comprehensive UI color properties for better compatibility
+- Improved support for inputs, menus, buttons, chat panels, and more
+- Affected themes: Xcode Classic (Light), Xcode Low Key (Light), Xcode Spartan (Light)
 
+**Note for Cursor users:** The OpenAI Codex extension may require additional settings. See [CHANGELOG.md](CHANGELOG.md) for details.
+
+### [5.0.0] - 2023-11-10
+
+#### Added
 - New theme Xcode Low Key (Light)
 - New theme Xcode Spartan (Light)
 - New theme Xcode Civic (Dark)
+
+For full changelog history, see [CHANGELOG.md](CHANGELOG.md)
+
+---
 
 ## [4.1.0] - 2022-12-16
 
