@@ -63,18 +63,18 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 
 ## Latest Release
 
-### [5.0.1] - 2025-01-14
+## [5.0.1] - 2025-01-14
 
-#### Fixed
+### Fixed
 
 -   Fixed text visibility in VS Code and Cursor light themes (#18)
 -   Added 66 comprehensive UI color properties for better compatibility
 -   Improved support for inputs, menus, buttons, chat panels, and more
 -   Affected themes: Xcode Classic (Light), Xcode Low Key (Light), Xcode Spartan (Light)
 
-### [5.0.0] - 2023-11-10
+## [5.0.0] - 2023-11-10
 
-#### Added
+### Added
 
 -   New theme Xcode Low Key (Light)
 -   New theme Xcode Spartan (Light)
