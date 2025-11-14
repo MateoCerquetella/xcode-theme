@@ -2,7 +2,7 @@
   "name": "Xcode Classic (Light)",
   "type": "light",
   "colors": {
-    "list.focusForeground": "#FFFFFF",
+    "list.focusForeground": "#000000",
     "scrollbar.shadow": "#ffffff00",
     "tab.activeBorder": "#ffffff",
     "widget.shadow": "#ffffff00",
