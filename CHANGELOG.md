@@ -2,6 +2,16 @@
 
 All notable changes to the "xcode-theme" extension will be documented in this file.
 
+## [5.0.1] - 2025-01-14
+
+### Fixed
+
+- Fixed text visibility in Cursor for all light themes (#18)
+- Changed `list.focusForeground` from white to black in:
+  - Xcode Classic (Light)
+  - Xcode Low Key (Light)
+  - Xcode Spartan (Light)
+
 ## [5.0.0] - 2023-11-10
 
 ### Added
