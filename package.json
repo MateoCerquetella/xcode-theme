@@ -3,7 +3,7 @@
   "displayName": "Xcode Theme",
   "description": "Xcode Theme, ported to VS Code",
   "icon": "images/icon.png",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "scripts": {
     "build": "vsce package"
   },
@@ -54,6 +54,11 @@
         "label": "Xcode Default (Dark Customized Version)",
         "uiTheme": "vs-dark",
         "path": "./themes/Xcode Default Dark Customized Version.json"
+      },
+      {
+        "label": "Xcode Midnight (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode Midnight.json"
       }
     ]
   },
