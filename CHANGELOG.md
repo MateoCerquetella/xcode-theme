@@ -2,6 +2,13 @@
 
 All notable changes to the "xcode-theme" extension will be documented in this file.
 
+## [5.2.0] - 2026-05-12
+
+### Added
+
+-   New theme **Xcode Midnight (Dark)** (#19) — deeper, cooler blue-black variant of the Xcode dark palette
+-   Editor background `#10131A`, sidebar/status `#0A0D14`, retains the Xcode syntax palette
+
 ## [5.1.0] - 2026-05-12
 
 ### Added
