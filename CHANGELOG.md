@@ -2,6 +2,14 @@
 
 All notable changes to the "xcode-theme" extension will be documented in this file.
 
+## [5.1.0] - 2026-05-12
+
+### Added
+
+-   Visible indentation guide colors across all themes (#22)
+-   Dark themes (Civic, Classic Dark, Default Dark, Default Dark Customized): `editorIndentGuide.background` `#404040`, `editorIndentGuide.activeBackground` `#707070`
+-   Light themes (Classic Light, Low Key, Spartan): `editorIndentGuide.background` `#D8D8D8`, `editorIndentGuide.activeBackground` `#A0A0A0`
+
 ## [5.0.1] - 2025-01-14
 
 ### Fixed
