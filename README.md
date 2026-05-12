@@ -20,6 +20,7 @@ Bring the color of the following Xcode themes to Visual Studio Code:
 -   Xcode Classic (Dark)
 -   Xcode Classic (Light)
 -   Xcode Civic (Dark)
+-   Xcode Midnight (Dark)
 -   Xcode Low Key (Light)
 -   Xcode Spartan (Light)
 
@@ -62,6 +63,21 @@ To obtain the max similarity of Xcode, I recommend to use the Apple font-family 
 # Change Log
 
 ## Latest Release
+
+## [5.2.0] - 2026-05-12
+
+### Added
+
+-   New theme **Xcode Midnight (Dark)** (#19) — deeper, cooler blue-black variant of the Xcode dark palette
+-   Editor background `#10131A`, sidebar/status `#0A0D14`, retains the Xcode syntax palette
+
+## [5.1.0] - 2026-05-12
+
+### Added
+
+-   Visible indentation guide colors across all themes (#22)
+-   Dark themes (Civic, Classic Dark, Default Dark, Default Dark Customized): `editorIndentGuide.background` `#404040`, `editorIndentGuide.activeBackground` `#707070`
+-   Light themes (Classic Light, Low Key, Spartan): `editorIndentGuide.background` `#D8D8D8`, `editorIndentGuide.activeBackground` `#A0A0A0`
 
 ## [5.0.1] - 2025-01-14
 
